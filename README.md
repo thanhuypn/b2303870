@@ -15,8 +15,6 @@
 - **Họ và tên:** Phạm Nguyễn Thanh Huy
 - **MSSV:** B2303870
 - **Ngành:** Hệ thống thông tin
-- **Định hướng:** Back-end Developer
-- **Sở thích:** Lập trình, phát triển phần mềm, cơ sở dữ liệu và AI.
 
 ## 🚀 Kỹ năng & Công nghệ
 
@@ -33,18 +31,7 @@
 **Công cụ phát triển**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
-
 </div>
-
-## 📊 Thống kê GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:5865F2,100:9B5CFF&height=100&section=footer" width="100%"/>
