@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:5865F2,100:9B5CFF&height=200&section=header&text=PHAM%20NGUYEN%20THANH%20HUY&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Developer&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:5865F2,100:9B5CFF&height=200&section=header&text=PHAM%20NGUYEN%20THANH%20HUY&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student&descAlignY=58&descSize=17" width="100%"/>
 
 ### 👋 Xin chào! Chào mừng đến với GitHub của mình
 
